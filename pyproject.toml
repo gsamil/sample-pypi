@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "gsamil-test"
-version = "0.1.0"
+version = "0.1.7"
 homepage = "https://github.com/gsamil/sample-pypi"
 description = "This is a test python package I created to learn pip&poetry"
 authors = ["gsamil <abdullah-s-guser@hotmail.com>"]
