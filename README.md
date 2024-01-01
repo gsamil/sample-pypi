@@ -1,5 +1,7 @@
 # sample-pypi
 
+- I created this repository to learn how to create a Python package and publish it to PyPI.
+
 - This repository uses `poetry` to manage dependencies and packaging.
 
 ## `poetry` installation
@@ -78,3 +80,4 @@ This will install all the dependencies listed in your `pyproject.toml` file and 
 ## TODOs
 
 - [ ] What is the advantage of using `poetry` over `requirements.txt`?
+- [ ] How to use test pypi?
