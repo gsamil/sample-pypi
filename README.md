@@ -153,11 +153,8 @@ To remove a virtual environment, you can simply delete the directory that contai
 ## References
 
 - [How to Create and Use Virtual Environments in Python With Poetry](https://youtu.be/0f3moPe_bhk)
-
-
-
+- [What is the advantage of using `poetry` over `requirements.txt`?](https://www.reddit.com/r/learnpython/comments/xjyz13/comment/ipb2fm7)
 
 ## TODOs
 
-- [ ] What is the advantage of using `poetry` over `requirements.txt`?
 - [ ] How to use test pypi?
