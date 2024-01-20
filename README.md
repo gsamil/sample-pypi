@@ -157,4 +157,4 @@ To remove a virtual environment, you can simply delete the directory that contai
 
 ## TODOs
 
-- [ ] How to use test pypi?
+- [x] How to use test pypi? See [python-preview.yml](./.github/workflows/python-preview.yml).
