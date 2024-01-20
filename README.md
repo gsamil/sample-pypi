@@ -87,6 +87,12 @@ poetry install
 
 This will install all the dependencies listed in your `pyproject.toml` file and create a `poetry.lock` file. (You can commit this file to your repository to ensure that all developers use the same versions of the dependencies.)
 
+### add dependencies from requirements.txt
+
+```bash
+cat requirements.txt | xargs poetry add
+```
+
 ## Use `poetry` to create a virtual environment for an existing project
 
 If you clone a project that uses `poetry` for dependency management, you can create a virtual environment for it using poetry.
